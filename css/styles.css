@@ -1,7 +1,7 @@
 /* Basic Styling - don't alter this part! */
 html,
 .content {
-    background-image:linear-gradient(to bottom right, purple, orange, ...);
+    background-image:linear-gradient(to bottom right, purple, orange);
     text-align:center;
     color: black;}
 
