@@ -1,9 +1,13 @@
 /* Basic Styling - don't alter this part! */
 html,
-.content {
+body {
     background-image:linear-gradient(to bottom right, purple, orange);
     text-align:center;
     color: black;}
 
-.hr {}
+#code_image {
+    border-radius: 150px;
+    
+
+}
     
