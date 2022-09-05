@@ -1,3 +1,7 @@
-::content {background-color:purple
+/* Basic Styling - don't alter this part! */
+html,
+content {
+    background-color:purple;
+    text-align:center;
     color:orange;}
     
