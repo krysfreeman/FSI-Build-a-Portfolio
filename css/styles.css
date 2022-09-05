@@ -1,7 +1,9 @@
 /* Basic Styling - don't alter this part! */
 html,
 .content {
-    background-color:purple;
+    background-image:linear-gradient(to bottom right, purple, orange, ...);
     text-align:center;
-    color:orange;}
+    color: black;}
+
+.hr {}
     
