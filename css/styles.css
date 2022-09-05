@@ -1,6 +1,6 @@
 /* Basic Styling - don't alter this part! */
 html,
-content {
+.content {
     background-color:purple;
     text-align:center;
     color:orange;}
