@@ -3,11 +3,18 @@ html,
 body {
     background-image:linear-gradient(to bottom right, purple, orange);
     text-align:center;
-    color: black;}
+    color: black;
+    cursor:crosshair;}
+
+ .header {
+    font-family: Papyrus, fantasy;
+ }   
 
 #code_image {
     border-radius: 150px;
-    
+    height: 40%;
+    width: 40%;
+
 
 }
     
